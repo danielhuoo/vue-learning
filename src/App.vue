@@ -1,3 +1,5 @@
+App.vue
+然后在其他组件中使用这个组件
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
